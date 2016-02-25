@@ -1,2 +1,2 @@
 Base: exis-python:r2
-Command: python -m python.python
+Command: python -m python.receiver
