@@ -27,6 +27,10 @@ def parser(s):
         return 'Hi there! How are you?'
     if any(musk in s for musk in muskmsg): #Checks if any of the hellomsgs keywords are in the message
         return random.choice(muskfacts)
+    if any(competition in s for competition in compmsg): #Checks if any of the hellomsgs keywords are in the message
+        return random.choice(compfacts)
+    if any(test in s for test in testmsg): #Checks if any of the hellomsgs keywords are in the message
+        return random.choice(testfacts)
     return "Sorry, I didn't understand what you said."
     
 def weather(): 

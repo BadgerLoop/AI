@@ -14,3 +14,15 @@ muskfacts = [
 			'In 1999, Musk co-founded X.com, an online payment company that eventually became PayPal before being acquired by eBay for $1.5 billion in stock (of which $165 million was given to Musk).',
 			'Musk initially found it impossible to get funding for SpaceX, which investors saw as a pipe dream. Musk channeled all his own money into the company to make SpaceX a reality (going against every piece of business advice ever written).'
 			]
+
+compmsg = ['competition', 'weekend']
+
+compfacts = [
+			'Competition weekend will take place in August of 2016'
+			]
+
+testmsg = ['test', 'launch', 'tested', 'launched']
+
+testfacts = [
+			'The pod will be launched down a test track in California, built and designed by SpaceX'
+			]
